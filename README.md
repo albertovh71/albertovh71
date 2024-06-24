@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertovh71](https://github.com/albertovh71)
 
-- 📫 How to reach me **alberto.vidaurrazaga@gmail.com**
+- 📫 How to reach me alberto.vidaurrazaga@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/albertovidaurrazaga/](https://www.linkedin.com/in/albertovidaurrazaga/)
 
