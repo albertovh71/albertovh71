@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alberto Vidaurrázaga
 
-### A passionate Jupyter notebook developer
+### Passionate about the industrial environment and process optimization.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertovh71&label=Profile views&color=0e75b6&style=flat" alt="albertovh71" /> </p>
 
